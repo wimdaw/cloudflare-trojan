@@ -1,10 +1,10 @@
 
 /**
- * YouTube Channel: https://youtube.com/@am_clubs
- * Telegram Group: https://t.me/am_clubs
- * GitHub Repository: https://github.com/amclubs
- * Personal Blog: https://amclubs.blogspot.com
- * Personal Blog: https://amclubss.com
+ * YouTube Channel: https://youtube.com/@easyshare5706
+ * Telegram Group: https://t.me/easyshare
+ * GitHub Repository: https://github.com/wimdaw
+ * Personal Blog: https://healthdir.blogspot.com
+ * Personal Blog: https://www.moew.eu.org
  */
 
 // @ts-ignore
