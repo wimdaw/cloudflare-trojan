@@ -1372,8 +1372,8 @@ function getConfigHtml(userID, host, remark, v2ray, clash) {
 	// HTML Head with CSS and FontAwesome library
 	const htmlHead = `
     <head>
-      <title>am-cf-tunnel(AM科技)</title>
-      <meta name='description' content='This is a project to generate free vmess nodes. For more information, please subscribe youtube(AM科技) https://youtube.com/@AM_CLUB and follow GitHub https://github.com/amclubs ' />
+      <title>cf-trojan-tunnel</title>
+      <meta name='description' content='This is a project to generate free vmess nodes. For more information, please subscribe youtube(easyshare) https://youtube.com/@easyshare5706 and follow GitHub https://github.com/wimdaw ' />
       <style>
         body {
           font-family: Arial, sans-serif;
@@ -1420,7 +1420,7 @@ function getConfigHtml(userID, host, remark, v2ray, clash) {
 	const header = `
 		<p align="left" style="padding-left: 20px; margin-top: 20px;">
 		Telegram交流群 点击加入，技术大佬~在线交流</br>
-		<a href="https://t.me/am_clubs" target="_blank">https://t.me/am_clubs</a>
+		<a href="https://t.me/easyshare666" target="_blank">https://t.me/easyshare666</a>
 		</br></br>
 		GitHub项目地址 点击进入，点下星星给个Star!Star!Star!</br>
 		<a href="https://github.com/${projectName}" target="_blank">https://github.com/${projectName}</a>
