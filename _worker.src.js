@@ -48,9 +48,13 @@ let ipUrlCsv = [
 ];
 // Preferred addresses with optional TLS subscription
 let ipLocal = [
-	'visa.cn:443#youtube.com/@am_clubs AM科技(订阅频道观看教程)',
-	'icook.hk#t.me/am_clubs TG群(加入解锁免费节点)',
-	'time.is#github.com/amclubs GitHub仓库(关注查看新功能)'
+	'icook.tw:443#<<<——欢迎订阅本站——>>>',
+	'icook.tw:2053#<<<——首次更新日期：2023.03.03——>>>',
+	'icook.tw:2083#<<<——最近更新日期：2025.04.03——>>>',
+	'icook.tw:2087#<<<——本站永久订阅链接——>>>',
+	'icook.tw:2096#<<<——https://sub.moew.eu.org——>>>',
+	'icook.tw:8443#<<<——请把订阅链接分享给你的朋友！！！——>>>',
+	'icook.tw:9443#<<<——以上节点也可以使用——>>>'
 ];
 let noTLS = 'false';
 let sl = 5;
